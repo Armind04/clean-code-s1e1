@@ -165,11 +165,11 @@ button.delete img:hover {
   display: none;
 }
 
-.task-list .editMode input[type=text] {
+.editMode input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.task-list .editMode label {
+.editMode label {
   display: none;
 }
