@@ -171,5 +171,5 @@ button.delete img:hover {
 }
 
 .task-list .editMode label {
-  display: none
+  display: none;
 }
